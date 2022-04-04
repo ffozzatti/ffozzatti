@@ -1,6 +1,5 @@
 ### Olá meu nome é Felipe Fozzatti
 
-- 🔭 Eu sou Analista de Software
 - 🌱 Em busca de ser um Engenheiro de Software
 - 💻 Co-founder Senitte - https://senitte.com.br/
 

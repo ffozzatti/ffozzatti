@@ -4,7 +4,6 @@
 - 🌱 Em busca de ser um Engenheiro de Software
 
 
-##
 
 <div align="center">
   <a href="https://github.com/ffozzatti">

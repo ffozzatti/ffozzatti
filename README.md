@@ -27,6 +27,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffozzatti&layout=compact&langs_count=7&theme=dracula"/>
 </div>    
   
+  ---
+  
   ## 💻 Rede Sociais!
   
 [website]: http://felipe.senitte.com.br/

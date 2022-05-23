@@ -1,13 +1,13 @@
-## 💜 Olá, meu nome é <strong>Felipe Fozzatti!</strong>
+## ✌️ Hello, my name is <strong>Felipe Fozzatti!</strong>
 
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 A future Software Engineer
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -20,9 +20,20 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 <div align="center">
   <a href="https://github.com/ffozzatti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffozzatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffozzatti&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>    
+  
+  ## 💻 Rede Sociais!
+  
+[website]: http://felipe.senitte.com.br/
+[linkedin]: https://www.linkedin.com/in/felipefozzatti/
+[whatsapp]: https://wa.me/5511950396379
+
+🏡 [Website][website] **|** 
+👔 [Linkedin][linkedin] **|** 
+📱  [WhatsApp][whatsapp]
+ 

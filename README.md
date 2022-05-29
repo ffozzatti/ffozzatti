@@ -1,7 +1,10 @@
 ## ✌️ Hello, my name is <strong>Felipe Fozzatti!</strong>
 
-
 🔭 A future Software Engineer
+
+💻 felipe.senitte.com.br
+
+📧 ffozzatti@gmail.com
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
@@ -31,7 +34,7 @@
   
   ---
   
-  ## 💻 Rede Sociais!
+  ## 💻 Social networks
   
 [website]: http://felipe.senitte.com.br/
 [linkedin]: https://www.linkedin.com/in/felipefozzatti/

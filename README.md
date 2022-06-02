@@ -6,8 +6,6 @@
 
 📧 ffozzatti@gmail.com
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
 ----
 
 ## 🚀 Skills

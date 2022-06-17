@@ -4,7 +4,7 @@
 
 💻 felipe.senitte.com.br
 
-📧 ffozzatti@gmail.com
+💬 "See a need, fill a need." - Bigweld, Robots(2005)
 
 ----
 

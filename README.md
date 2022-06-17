@@ -2,8 +2,6 @@
 
 🔭 A future Software Engineer
 
-💻 felipe.senitte.com.br
-
 💬 "See a need, fill a need." - Bigweld, Robots(2005)
 
 ----

@@ -2,6 +2,8 @@
 
 🔭 A future Software Engineer
 
+🏢 Co-founder Senitte - senitte.com.br
+
 💬 "See a need, fill a need." - Bigweld, Robots(2005)
 
 ----

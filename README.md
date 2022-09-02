@@ -4,7 +4,8 @@
 
 🏢 Co-founder Senitte - senitte.com.br
 
-💬 "See a need, fill a need." - Bigweld, Robots(2005)
+Working in the Application Engineering team being responsible for the integration of management platforms in ChromeOS and Android devices with a focus on Educational projects for the government. These projects are spread across the country with around 1 million devices directly impacted.
+In parallel, I continue studying and preparing to be a Software Engineer and currently have knowledge in JavaScript, TypeScript, ReactJS and NodeJS.
 
 ----
 

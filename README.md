@@ -4,8 +4,8 @@
 
 🏢 Co-founder Senitte - senitte.com.br
 
-Working in the Application Engineering team being responsible for the integration of management platforms in ChromeOS and Android devices with a focus on Educational projects for the government. These projects are spread across the country with around 1 million devices directly impacted.
-In parallel, I continue studying and preparing to be a Software Engineer and currently have knowledge in JavaScript, TypeScript, ReactJS and NodeJS.
+Working in the Application Engineering team, being responsible for the integration of management platforms in ChromeOS and Android devices with a focus on Educational projects for the government. These projects are spread across the country with around 1 million devices directly impacted.
+Also acting as a Software Engineer with emphasis on front-end, having as main stacks JavaScript, TypeScript, ReactJs and use of QT (QML) with C++.
 
 ----
 

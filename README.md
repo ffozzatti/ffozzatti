@@ -1,6 +1,6 @@
 ## ✌️ Hello, my name is <strong>Felipe Fozzatti!</strong>
 
-🔭 A future Software Engineer
+🔭 I'm Software Engineer
 
 🏢 Co-founder Senitte - senitte.com.br
 
